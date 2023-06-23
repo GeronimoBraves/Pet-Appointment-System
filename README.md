@@ -11,6 +11,12 @@ Our project is a visual representation of a systematic system designed for vario
 
 ## Project Screenshots
 - Home Page
-- Appointment Page
+  <img src="/images/OP1.jpg">
+- Appointment Page  
+  <img src="/images/OP2.jpg">
+  <img src="/images/op3.jpg">
+  <img src="/images/OP4.jpg">
 - Services Page
+  <img src="/images/OP6.jpg">
 - Blog Page
+- <img src="/images/OP5.jpg">
